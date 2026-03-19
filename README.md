@@ -12,8 +12,8 @@ Interfaz de tienda de productos con carrito de compras. Construida con React y V
 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd frontend
+git clone https://github.com/axd3r/reto-avatar-frontend.git
+cd reto-avatar-frontend
 ```
 
 2. Instalar dependencias
